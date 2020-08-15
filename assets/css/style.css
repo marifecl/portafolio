@@ -1,0 +1,151 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+.navm{
+    font-family: 'Oswald', sans-serif; 
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+nav{
+    background-color: darkred;
+    height: 64px;
+}
+
+#malayoheader{
+    ;
+}
+
+header{
+    background-image: url('../img/bh_hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20rem 3rem;
+}
+
+h1{
+    color: white;
+    font-family: 'Oswald', sans-serif; 
+    font-weight: 200;
+}
+
+h2{
+    color: white;
+    font-family: 'Oswald', sans-serif; 
+    font-weight: 700;
+    font-size: 3em;
+}
+
+h3{
+    color: black;
+    font-family: 'Oswald', sans-serif; 
+    font-weight: 700;
+    font-size: 3em;
+    text-align: center;
+}
+
+.hr1 {
+    height: 2px;
+    width: 20%;
+    background-color:white;
+}
+
+.hr2 {
+    height: 2px;
+    width: 10%;
+    background-color: #373A3C;
+}
+
+.columna{
+    line-height: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.texto{
+    line-height: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.5em;
+}
+
+.icons-section {
+    padding: 2.25rem 3.125rem;
+    text-align: center;
+    margin: auto; 
+}
+    
+.icons-section figure{
+    text-align: center;
+    display: inline-block; 
+    color: darkred;
+}
+
+.icons-text{
+    font-family: 'Oswald', sans-serif; 
+    font-weight: 700;
+    font-size: 2em;
+    text-align: center;
+    color: black;
+}
+
+#xxx{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+.work{
+    background-color: darkred;
+}
+
+#work-text{
+    color: white;
+}
+
+.hr4 {
+    height: 2px;
+    width: 10%;
+    background-color:white;
+}
+
+.card-title{
+    font-family: 'Oswald', sans-serif; 
+    font-weight: 700;
+}
+
+.card-text{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+
+footer{
+    background-color: darkred;
+}
+
+.icons-footer i{
+    font-size: 55px;
+    color: white;
+    margin-right: 2rem;
+}
+
+.tooltip-inner{
+    background-color: #373A3C;
+}
+
+.arrow{
+    color: rosybrown;
+}
+
+.carousel-item img{
+    width: 250px;
+    height: 200px;
+}
+
+.carousel-indicators li{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #373A3C;
+}
